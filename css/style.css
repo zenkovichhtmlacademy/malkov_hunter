@@ -240,10 +240,6 @@ img {
   background-color: var(--simple-white);
 }
 
-.button-disabled {
-  background-color: var(--disable-grey);
-}
-
 .slider-control-wrapper {
   width: 86px;
   display: flex;
