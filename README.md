@@ -1,8 +1,10 @@
 # malkov_hunter
 
-<h2>Затраченное время на выполнение задания: 12 часов 46 минут</h2>
+<h1>Затраченное время на выполнение задания: 12 часов 46 минут</h1>
 Ссылка на скриншот Boosted [https://ibb.co/jHcWVfp]
 
+
+<h2>техническим заданием.</h2>
 
 > Ссылка на макет: 
 [https://www.figma.com/file/EJO4OXUOrAiaMGLzvrcyrs/Промежуточное-грейдирование-HTML-%26-CSS%2C-уровень-1?node-id=0%3A1](https://www.figma.com/file/EJO4OXUOrAiaMGLzvrcyrs/%D0%9F%D1%80%D0%BE%D0%BC%D0%B5%D0%B6%D1%83%D1%82%D0%BE%D1%87%D0%BD%D0%BE%D0%B5-%D0%B3%D1%80%D0%B5%D0%B9%D0%B4%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-HTML-%26-CSS%2C-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C-1?node-id=0%3A1)
